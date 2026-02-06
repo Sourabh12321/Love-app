@@ -238,7 +238,6 @@ function App() {
           <span className="heart-icon">💕</span>
         </h1>
         <p className="subtitle">Seven Days of Love</p>
-        {countdown && <div className="countdown-banner">{countdown}</div>}
       </header>
 
       {/* Cards Container */}
