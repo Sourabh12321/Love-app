@@ -189,12 +189,12 @@ function App() {
   const getVideoSource = (dayName) => {
     const videoMap = {
       'Rose Day': 'rose_day',
-      'Propose Day': 'propose',
-      'Promise Day': 'promise',
-      'Kiss Day': 'kiss',
-      'Hug Day': 'hug',
-      'Teddy Day': 'teddy',
-      "Valentine's Day": 'valentine'
+      'Propose Day': 'propose_day',
+      'Promise Day': 'promise_day',
+      'Kiss Day': 'kiss_day',
+      'Hug Day': 'hug_day',
+      'Teddy Day': 'teddy_day',
+      "Valentine's Day": 'valentine_day'
     };
     return videoMap[dayName] || '';
   };
