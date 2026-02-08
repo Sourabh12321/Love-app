@@ -4,7 +4,7 @@ import './App.css';
 // Valentine's Week Schedule (2026)
 const valentineWeek = [
   { 
-    date: new Date('2026-02-07'), 
+    date: new Date('2026-02-06'), 
     day: 'Rose Day', 
     color: '#ff6b9d', 
     emoji: '🌹', 
@@ -13,7 +13,7 @@ const valentineWeek = [
     quote: '"A rose speaks of love silently, in a language known only to the heart."'
   },
   { 
-    date: new Date('2026-02-08'), 
+    date: new Date('2026-02-06'), 
     day: 'Propose Day', 
     color: '#ff1493', 
     emoji: '💍', 
@@ -22,7 +22,7 @@ const valentineWeek = [
     quote: '"In you, I\'ve found the love of my life and my closest, truest friend."'
   },
   { 
-    date: new Date('2026-02-09'), 
+    date: new Date('2026-02-06'), 
     day: 'Chocolate Day', 
     color: '#8b4513', 
     emoji: '🍫', 
@@ -31,7 +31,7 @@ const valentineWeek = [
     quote: '"Life is like a box of chocolates, but with you, every piece is my favorite."'
   },
   { 
-    date: new Date('2026-02-10'), 
+    date: new Date('2026-02-06'), 
     day: 'Teddy Day', 
     color: '#daa520', 
     emoji: '🧸', 
@@ -40,7 +40,7 @@ const valentineWeek = [
     quote: '"A teddy bear is a reminder that someone cares and is always there to hug."'
   },
   { 
-    date: new Date('2026-02-11'), 
+    date: new Date('2026-02-06'), 
     day: 'Promise Day', 
     color: '#9370db', 
     emoji: '🤝', 
@@ -49,7 +49,7 @@ const valentineWeek = [
     quote: '"Promises are the uniquely human way of ordering the future, making it predictable and reliable."'
   },
   { 
-    date: new Date('2026-02-12'), 
+    date: new Date('2026-02-06'), 
     day: 'Hug Day', 
     color: '#ff69b4', 
     emoji: '🤗', 
@@ -58,7 +58,7 @@ const valentineWeek = [
     quote: '"A hug is a silent way of saying you matter to me."'
   },
   { 
-    date: new Date('2026-02-13'), 
+    date: new Date('2026-02-06'), 
     day: 'Kiss Day', 
     color: '#ff1744', 
     emoji: '💋', 
@@ -67,7 +67,7 @@ const valentineWeek = [
     quote: '"A kiss is a secret told to the mouth instead of the ear."'
   },
   { 
-    date: new Date('2026-02-14'), 
+    date: new Date('2026-02-06'), 
     day: "Valentine's Day", 
     color: '#e91e63', 
     emoji: '❤️', 
