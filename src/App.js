@@ -106,9 +106,7 @@ function App() {
       const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
       const seconds = Math.floor((diff % (1000 * 60)) / 1000);
       
-      setCountdown(`${days}d ${hours}h ${minutes}m ${seconds}s until Rose Day!`);
-    } else {
-      setCountdown('');
+      // setCountdown(`${days}d ${hours}h ${minutes}m ${seconds}s until Rose Day!`);
     }
   }, [currentTime]);
 
