@@ -88,6 +88,8 @@ function App() {
   const [playVideo, setPlayVideo] = useState(false);
 
   useEffect(() => {
+
+    console.log('App mounted, starting timer');
     const timer = setInterval(() => {
       setCurrentTime(new Date());
     }, 1000);
