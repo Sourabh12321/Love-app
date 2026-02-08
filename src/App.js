@@ -79,7 +79,7 @@ const valentineWeek = [
 
 function App() {
   const [currentTime, setCurrentTime] = useState(new Date());
-  const [countdown, setCountdown] = useState('');
+  // const [countdown, setCountdown] = useState('');
   const [selectedCard, setSelectedCard] = useState(null);
   const [show3DAnimation, setShow3DAnimation] = useState(false);
   const [showValentineModal, setShowValentineModal] = useState(false);
